@@ -4,5 +4,5 @@
 
 ## File Info
 
-cap1.pptx - 아이디어 회의 2020.09.10 ver.
-cap2.pptx - 아이디어 회의 2020.09.14 ver.
+- cap1.pptx - 아이디어 회의 2020.09.10 ver.
+- cap2.pptx - 아이디어 회의 2020.09.14 ver.

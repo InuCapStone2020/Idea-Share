@@ -36,4 +36,5 @@
 
 ### 테스트 케이스
 
-- testcase.xlsx - 테스트케이스 2020.12.1 ver.
+- testcase.xlsx - 테스트케이스 2020.12.3 ver.
+- GUI.hwp - GUI for 유스케이스 설명 2020.12.1 ver. (유스케이스 GUI와 동일한 문서)
